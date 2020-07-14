@@ -1,4 +1,4 @@
-# selecao-atributos-com-extratreesclassifier
+# Seleção de Atributos com o ExtraTreesClassifier
 Um estudo sobre a seleção de atributos para melhorar a performance do ExtraTreesClassifier
 
 Um pequeno exercício de escolha de atributos para melhorar a performance de um modelo usando o ExtraTreesClassifier.
